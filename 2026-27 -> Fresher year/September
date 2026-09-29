@@ -1,37 +1,55 @@
-**Sept 8 ->** I started LeetCode in C++. I'm not really familiar with C++ but I'm familiar with C so I have to google some syntax but logic remains mostly the same. I solved 4 problems till now. I learnt about Hashmap\
-which works exactly like Dictionary in Python but you'd have to make a dictionary in this case. I'm working towards solving more and more problems from LeetCode as it's giving me more exposure into  logical \
-thinking and basically learning C++ by doing rather than watching a full 6 hour or 10 hr tutorial for it. It saves time and effort and gives you practical knowledge but you do have to work a bit more to understand \
-what you're writing before you actually start to write and use that in your code.\
-**Sept 12 (part 1) ->** I have progressed to solving a total of 8 leetcode problems till now, trying to do 1-2 problems per day. I've been contributing in the OSDC forum work as well, opened a PR today after an entire week of \
-problems with linting and somehow having to clone the actual repo 4 times (I'm not exaggerating). But yes, progress is progress. I realized that instead of running after things at lightspeed I should pick one or \
-two things and do them with full faith because everything is going to eventually pay off. So also taking in light my studies, I've reduced the frequency of my hackathon participation to focus more on my studies \
-alongside learning C++ via Leetcode problems and learning practical applications of system design via OSDC Forum. Basically learning how shit works. Been getting into the groove and more clear about what I wanna \
-do, as in short term goals. One of my teachers told me that sometimes the solution to a chaotic situation is slowing down, so I've been trying to slow it down and get into a groove to actually get something done \
-while still looking out of opportunities instead of just inserting myself everywhere trying to find out where I belong.\
-**Sept 12 (part 2) ->** I learnt about Binary Searching method which cuts the O(n) time of Linear Search Method to just O(Logn) which will make your code faster than before and obviously gets rid of the time limit \
-exceeded issue which is very cool to know.\
-**Sept 18 ->** Today I learnt about Google Antigravity and how we could integrate AI Model API keys in an IDE from, for eg, GOOGLE AI STUDIO, and use that AI model to vibecode. I also learn about Google Antigravity \
-which is INSANELY cool. It's like a personal IDE with AI integrated. Yes, I know tools like Cursor do exist but man, the token limiting is crazy on all that. Using Gemini flash models you'd virtually have \
-near inifnite tokens for a solo developer working on whatever you're working on. I'm thinking of using something like that to vibecode a website for my dad's corporate training business. But I learnt that \
-vibecoding has levels. What I mean is that I don't wanna be the filthy vibecoder who only does prompt engineering while the AI does the entire work. Yes that's basically a job description these days but it's \
-still my learning phase and I found out a way to LEARN properly while still somewhat vibecoding. Instead of just telling the AI model to create an entire webpage for me, I could let it create a scaffolding for \
-me which will in turn lead me to make the finished product. I could also learn system design the same way by doing all the thinking on paper while only telling the AI to discuss with me about the tradeoffs \
-of using what I suggested than what it's thinking of use. That means I would be in an active participator instead of sitting back and enjoying lines of code being written without another thought. Well, that's \
-basically the idea. This is probably the most excited I've been since my last project because I've been DYING for another project. \
-**Sept 21 ->** Today I learnt about GSoC, about what it is and how it works. Basically what I gathered was knowlegde about the program and how to prep for it in order to at least get considered for acceptance into the GSoC thingy. \
-What I got to know was that you have to make a couple of open source contributions in the projects and works of the company you're targetting for GSoC, mostly basically have a couple of contributions so that the company at least has \
-enough trust in you to know that you won't be messing up Git & Github. Also I've strengthened my git very much since my 4 time cloning fiasco. I think I'm gonna be looking forward to making a couple of contributions as well. They won't be \
-in the near future I think because contributing in a meaninful manner would take reading the documentation and understanding the product before you could even point out an improvement. Basically I'd have to do a minor study on the project \
-to which I'm contributing. Also, I made a small notebook in which I'm noting donw the process and phases my short term goals would take, like GSoC so that I don't forget about my goals and what I had to do in order to achieve them by like \
-tomorrow or something. And yes I'm also slowly slowly progressing in leetcode as well. Today I did one problem which puts me up on the grand total of 14 problems. It's slow yes but I'd like to call it slow and steady. I'm not rushing the \
-problems just for the sake of completing and absurd amount of problems but I'm learning the concepts behind the problems. Today I got a great command on the concept of hashmap and successfuly used it in the 3Sum problem. I'm now targetting \
-medium level problems. \
-**Sept 29 ->** I've been intruiged about a tool since a few days. It's called HeyClickey. It's a macOS only tool but what it basically does is that it enables you to instantly snip any part of your screen and \
-instantaneously ask any query related to it, I think using voice command. I found it very interesting because it had lots and lots of practical use in my life as well. So...I made it. Or should I say perhaps, \
-a close working model of it. I learnt about how it worked and learnt about what techstack it needed and got to work and within a span of 3 days in which I only worked on this for 2 days, I have it working today. \
-I press 3 keys like a keybind and I can screen clip a part of my screen and the AI locally tells me whatever I wanna know about it. I can also use it if I don't have any screen clipping to give it.  It's basically \
-just AI but on your PC locally, even though it's a bit more complicated than that. I made the user enter an API key through which the app connects the Google Gemini Model to your app and then you can ask the \
-queries. Pretty cool right? It's quick and you don't even need to open safari, then google gemini, the put your screenshot, then ask. It's a quick 3 step process. Once you give your API key to it, you're ready to \
-go. I learnt a lot through this. I wrote the code myself by learning, googling and with the help of AI by asking what should I do if I wanna add this feature. It took a lot of frustration, errors, learning \
-but eventually I did reach at a point where my product is working even though it only works locally on my own PC right now. I was looking for a project to make and see how inspiration can strike from the \
-smallest of things. I'm happy to have reached this point where I learnt more about stuff and actually used it in practical use in a project where I can use it regularly and make it better in the process.\
+##Sept 8  
+I started LeetCode in C++. I'm not really familiar with C++ but I'm familiar with C so I have to google some syntax but logic remains mostly the same. I solved 4 problems till now. I learnt about Hashmap  
+which works exactly like Dictionary in Python but you'd have to make a dictionary in this case. I'm working towards solving more and more problems from LeetCode as it's giving me more exposure into  logical  
+thinking and basically learning C++ by doing rather than watching a full 6 hour or 10 hr tutorial for it. It saves time and effort and gives you practical knowledge but you do have to work a bit more to understand  
+what you're writing before you actually start to write and use that in your code.  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+##Sept 12 (part 1)  
+I have progressed to solving a total of 8 leetcode problems till now, trying to do 1-2 problems per day. I've been contributing in the OSDC forum work as well, opened a PR today after an entire week of  
+problems with linting and somehow having to clone the actual repo 4 times (I'm not exaggerating). But yes, progress is progress. I realized that instead of running after things at lightspeed I should pick one or  
+two things and do them with full faith because everything is going to eventually pay off. So also taking in light my studies, I've reduced the frequency of my hackathon participation to focus more on my studies  
+alongside learning C++ via Leetcode problems and learning practical applications of system design via OSDC Forum. Basically learning how shit works. Been getting into the groove and more clear about what I wanna  
+do, as in short term goals. One of my teachers told me that sometimes the solution to a chaotic situation is slowing down, so I've been trying to slow it down and get into a groove to actually get something done  
+while still looking out of opportunities instead of just inserting myself everywhere trying to find out where I belong.  
+##Sept 12 (part 2)  
+I learnt about Binary Searching method which cuts the O(n) time of Linear Search Method to just O(Logn) which will make your code faster than before and obviously gets rid of the time limit  
+exceeded issue which is very cool to know.  
+  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+  
+##Sept 18  
+Today I learnt about Google Antigravity and how we could integrate AI Model API keys in an IDE from, for eg, GOOGLE AI STUDIO, and use that AI model to vibecode. I also learn about Google Antigravity  
+which is INSANELY cool. It's like a personal IDE with AI integrated. Yes, I know tools like Cursor do exist but man, the token limiting is crazy on all that. Using Gemini flash models you'd virtually have  
+near inifnite tokens for a solo developer working on whatever you're working on. I'm thinking of using something like that to vibecode a website for my dad's corporate training business. But I learnt that  
+vibecoding has levels. What I mean is that I don't wanna be the filthy vibecoder who only does prompt engineering while the AI does the entire work. Yes that's basically a job description these days but it's  
+still my learning phase and I found out a way to LEARN properly while still somewhat vibecoding. Instead of just telling the AI model to create an entire webpage for me, I could let it create a scaffolding for  
+me which will in turn lead me to make the finished product. I could also learn system design the same way by doing all the thinking on paper while only telling the AI to discuss with me about the tradeoffs  
+of using what I suggested than what it's thinking of use. That means I would be in an active participator instead of sitting back and enjoying lines of code being written without another thought. Well, that's  
+basically the idea. This is probably the most excited I've been since my last project because I've been DYING for another project.  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+  
+##Sept 21  
+Today I learnt about GSoC, about what it is and how it works. Basically what I gathered was knowlegde about the program and how to prep for it in order to at least get considered for acceptance into the GSoC thingy.  
+What I got to know was that you have to make a couple of open source contributions in the projects and works of the company you're targetting for GSoC, mostly basically have a couple of contributions so that the company at least has  
+enough trust in you to know that you won't be messing up Git & Github. Also I've strengthened my git very much since my 4 time cloning fiasco. I think I'm gonna be looking forward to making a couple of contributions as well. They won't be  
+in the near future I think because contributing in a meaninful manner would take reading the documentation and understanding the product before you could even point out an improvement. Basically I'd have to do a minor study on the project  
+to which I'm contributing. Also, I made a small notebook in which I'm noting donw the process and phases my short term goals would take, like GSoC so that I don't forget about my goals and what I had to do in order to achieve them by like  
+tomorrow or something. And yes I'm also slowly slowly progressing in leetcode as well. Today I did one problem which puts me up on the grand total of 14 problems. It's slow yes but I'd like to call it slow and steady. I'm not rushing the  
+problems just for the sake of completing and absurd amount of problems but I'm learning the concepts behind the problems. Today I got a great command on the concept of hashmap and successfuly used it in the 3Sum problem. I'm now targetting  
+medium level problems.  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+  
+##Sept 29  
+I've been intruiged about a tool since a few days. It's called HeyClickey. It's a macOS only tool but what it basically does is that it enables you to instantly snip any part of your screen and  
+instantaneously ask any query related to it, I think using voice command. I found it very interesting because it had lots and lots of practical use in my life as well. So...I made it. Or should I say perhaps,  
+a close working model of it. I learnt about how it worked and learnt about what techstack it needed and got to work and within a span of 3 days in which I only worked on this for 2 days, I have it working today.  
+I press 3 keys like a keybind and I can screen clip a part of my screen and the AI locally tells me whatever I wanna know about it. I can also use it if I don't have any screen clipping to give it.  It's basically  
+just AI but on your PC locally, even though it's a bit more complicated than that. I made the user enter an API key through which the app connects the Google Gemini Model to your app and then you can ask the  
+queries. Pretty cool right? It's quick and you don't even need to open safari, then google gemini, the put your screenshot, then ask. It's a quick 3 step process. Once you give your API key to it, you're ready to  
+go. I learnt a lot through this. I wrote the code myself by learning, googling and with the help of AI by asking what should I do if I wanna add this feature. It took a lot of frustration, errors, learning  
+but eventually I did reach at a point where my product is working even though it only works locally on my own PC right now. I was looking for a project to make and see how inspiration can strike from the  
+smallest of things. I'm happy to have reached this point where I learnt more about stuff and actually used it in practical use in a project where I can use it regularly and make it better in the process  
