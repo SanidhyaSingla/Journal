@@ -25,4 +25,13 @@ in the near future I think because contributing in a meaninful manner would take
 to which I'm contributing. Also, I made a small notebook in which I'm noting donw the process and phases my short term goals would take, like GSoC so that I don't forget about my goals and what I had to do in order to achieve them by like \
 tomorrow or something. And yes I'm also slowly slowly progressing in leetcode as well. Today I did one problem which puts me up on the grand total of 14 problems. It's slow yes but I'd like to call it slow and steady. I'm not rushing the \
 problems just for the sake of completing and absurd amount of problems but I'm learning the concepts behind the problems. Today I got a great command on the concept of hashmap and successfuly used it in the 3Sum problem. I'm now targetting \
-medium level problems.
+medium level problems. \
+**Sept 29 ->** I've been intruiged about a tool since a few days. It's called HeyClickey. It's a macOS only tool but what it basically does is that it enables you to instantly snip any part of your screen and \
+instantaneously ask any query related to it, I think using voice command. I found it very interesting because it had lots and lots of practical use in my life as well. So...I made it. Or should I say perhaps, \
+a close working model of it. I learnt about how it worked and learnt about what techstack it needed and got to work and within a span of 3 days in which I only worked on this for 2 days, I have it working today. \
+I press 3 keys like a keybind and I can screen clip a part of my screen and the AI locally tells me whatever I wanna know about it. I can also use it if I don't have any screen clipping to give it.  It's basically \
+just AI but on your PC locally, even though it's a bit more complicated than that. I made the user enter an API key through which the app connects the Google Gemini Model to your app and then you can ask the \
+queries. Pretty cool right? It's quick and you don't even need to open safari, then google gemini, the put your screenshot, then ask. It's a quick 3 step process. Once you give your API key to it, you're ready to \
+go. I learnt a lot through this. I wrote the code myself by learning, googling and with the help of AI by asking what should I do if I wanna add this feature. It took a lot of frustration, errors, learning \
+but eventually I did reach at a point where my product is working even though it only works locally on my own PC right now. I was looking for a project to make and see how inspiration can strike from the \
+smallest of things. I'm happy to have reached this point where I learnt more about stuff and actually used it in practical use in a project where I can use it regularly and make it better in the process.\
